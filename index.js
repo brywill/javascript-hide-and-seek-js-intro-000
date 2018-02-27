@@ -26,5 +26,5 @@ function deepestChild() {
   	arr.push(g)
   }
 
-  return(arr[arr.length-1].innerHTML)
+  return(arr[arr.length-1])
 }
